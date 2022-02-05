@@ -20,7 +20,6 @@
   "author": "Aleksey Belchenkov",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.25.0",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "config": "^3.3.7",
@@ -28,8 +27,7 @@
     "express": "^4.17.2",
     "express-validator": "^6.14.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.2.0",
-    "react-transition-group": "^4.4.2"
+    "mongoose": "^6.2.0"
   },
   "devDependencies": {
     "concurrently": "^7.0.0",
